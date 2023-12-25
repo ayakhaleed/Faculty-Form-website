@@ -1,0 +1,90 @@
+fieldset{
+    box-shadow: 4px 4px 4px #3a4ff4;
+    padding: 2%;
+    margin: 2%;
+    background-color: #ffffd4;
+    color: #4a0038;
+    text-shadow: 1px 1px 1px #3a4ff4;
+    border-radius: 5px;
+    font-weight: 900;
+    font-size: 120%;
+}
+legend{
+    color:black;
+    font-weight: 900;
+    font-size: 140%;
+    border-style: double;
+    border-width: 6px;
+    border-radius: 4px;
+    background-color: #fee7f7;
+    text-shadow: 2px 2px 2px #3a4ff4;
+}
+input,select{
+    box-shadow: 4px 4px 4px #3a4ff4;
+    border-style: double;
+    border-color: black;
+    border-width: 7px;
+    border-radius: 7px;
+    background-color: #ffe7f9;
+    
+}
+select{
+    margin: 0.5%;
+}
+td{
+    width: 2%;
+    padding-bottom: 1%;
+}
+#sub,#res{
+    transition-duration: 0.4s;
+    box-shadow: 5px 5px 5px #f97a82;
+    font-weight: 900;
+    padding: 1%;
+    margin: 1%;
+}
+#res{
+    float: right;
+    margin-right: 40%;
+    border-radius: 2px;
+}
+#sub{
+    margin-left: 40%;
+    border-radius: 2px;
+}
+
+#res:hover{
+background-color: #e8ffd0;
+box-shadow: 0 5px #666;
+transform: translateY(4px);
+color: black;
+}
+#sub:hover{
+    background-color: #e8ffd0;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+    color: black;
+    }
+body{
+    background-image: url("b6.jpeg");
+}
+#gender{
+    box-shadow:3px 3px 3px #f97a82;;
+
+}
+.hoppy{
+    box-shadow:3px 3px 3px #f97a82;;
+
+
+}
+#sp{
+    box-shadow: 4px 4px 4px #3a4ff4;
+    margin: 2%;
+    background-color: #85b3b5;
+    color: #4a0038;
+    text-shadow: 1px 1px 1px #3a4ff4;
+    border-radius: 5px;
+    font-weight: 900;
+    font-size: 100%;
+    width:90%;
+    padding: 2%;
+}
